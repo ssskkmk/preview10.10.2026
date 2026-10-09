@@ -1,0 +1,13 @@
+
+
+.isometra-regular {
+  font-family: "Isometra", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Isometra";
+  src: url("../fonts/Isometra-Regular.ttf")format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
